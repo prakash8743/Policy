@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class browser 
 {
-public static WebDriver driver;//GITHUB
+public static WebDriver driver;
 public static WebDriver driver(String ele)
 {
 if(ele.equalsIgnoreCase("chrome"))
